@@ -1,3 +1,4 @@
+本页面最近一次更新时间：2020.03.12
 ### passwall官方telegram频道（源码更新内容、x86_64/x86官方编译固件分发）：       
 [主频道](https://t.me/passwall)            
 ### passwall固件分发分频道汇总：             
@@ -12,9 +13,9 @@
 
 ------------------------------------------------------------------------------------
 ### 小贴士：       
-[使用官方编译固件做视频教程，讲解固件使用相关任意方面的UP，可以把视频链接发到频道关联的群中，当猛禽Lienol看过觉得可以时，将作为本页面永久推荐教程]    
-* 不保留配置升级：[图文](./upgrade.md)                
-* 请务必保持启用passwall的高级设置里的守护进程！      
+[使用官方编译固件做视频教程，讲解固件使用相关任意方面的UP，可以把视频链接发到频道关联的群中，当猛禽Lienol看过觉得可以时，将作为本页面永久推荐教程]   
+* 不保留配置升级：[图文](./upgrade.md)                 
+* 请务必保持启用passwall的高级设置里的守护进程！       
 * 长期接受类gfwlist分流规则推荐，请在issues区推荐给Lienol（有分流方面的强烈建议也可以）：[https://github.com/Lienol/openwrt/issues](https://github.com/Lienol/openwrt/issues)             
 * 不允许访客使用代理、自由指定不同客户端使用不同线路、盒子看Netflix：[https://youtu.be/qkga9DN5H08](https://youtu.be/qkga9DN5H08)        
 * 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：[https://youtu.be/c4HSZzTM7G0](https://youtu.be/c4HSZzTM7G0)        
