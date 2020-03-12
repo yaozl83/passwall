@@ -19,3 +19,4 @@
 iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE           
 或者这条规则（有桥接存在的情况下）：       
 iptables -t nat -I POSTROUTING -o  br-lan  -j MASQUERADE            
+* 始终无法连接到软路由网络、始终无网络：[可能解决办法](./winproxy.md)             
