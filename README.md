@@ -19,7 +19,7 @@
 * 不保留配置升级：[图文](./upgrade.md)                 
 * 请务必保持启用passwall的高级设置里的守护进程！       
 * 长期接受类gfwlist分流规则推荐，请在issues区推荐给Lienol<猛禽>（有分流方面的强烈建议也可以）：       
-[https://github.com/Lienol/openwrt/issues](https://github.com/Lienol/openwrt/issues)                         
+[https://github.com/Lienol/openwrt/issues](https://github.com/Lienol/openwrt/issues)               
 * 不允许访客使用代理、自由指定不同客户端使用不同线路、盒子看Netflix：        
 [https://youtu.be/qkga9DN5H08](https://youtu.be/qkga9DN5H08)            
 * 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：  
