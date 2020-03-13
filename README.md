@@ -16,9 +16,7 @@
 ### 小贴士：       
 [使用官方编译固件做视频教程，讲解固件使用相关任意方面的UP，可以把视频链接发到频道关联的群中，当猛禽Lienol看过觉得可以时，将作为本页面永久推荐教程]   
 * 不保留配置升级：[图文](./upgrade.md)                 
-* 请务必保持启用passwall的高级设置里的守护进程！           
-* 长期接受类gfwlist分流规则推荐，请在issues区推荐给Lienol<猛禽>：       
-[https://github.com/Lienol/openwrt/issues](https://github.com/Lienol/openwrt/issues)        
+* 请务必保持启用passwall的高级设置里的守护进程！             
 * 不允许访客使用代理、自由指定不同客户端使用不同线路、盒子看Netflix：               
 [https://youtu.be/qkga9DN5H08](https://youtu.be/qkga9DN5H08)             
 * 如何DDNS外网无需加端口远程访问 dynuDNS解析 URL转发 治愈强迫症：  
