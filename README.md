@@ -23,11 +23,7 @@
 * 单线or双线，最简单的iptv内网融合教程，需要懂一点基础：      
 [https://github.com/luckyyyyy/blog/issues/44](https://github.com/luckyyyyy/blog/issues/44)                  
 * 手动单独更新passwall按钮不要一直使用，当出问题后还是需要完整不保留配置刷入最新完整固件的，否则依赖包不会更新，无法修复bug和获得优化体验        
-* 如果出现YouTube等一些网站的页面上的特定内容错误显示，比如广告区域加载失败，只有框框没有图片，大概率是你的系统（不是固件！）的负责域名快速解析的HOSTS文件在作妖，解决办法是删除HOSTS文件里的所有规则（# 号注释掉的内容可以不管，其他的都删掉）                     
-* 单臂路由模式下，如果无法访问国内网站，尝试在网络防火墙自定义规则添加这条规则（请注意要求eth0为LAN口）：            
-iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE           
-或者这条规则（有桥接存在的情况下）：       
-iptables -t nat -I POSTROUTING -o  br-lan  -j MASQUERADE            
+* 如果出现YouTube等一些网站的页面上的特定内容错误显示，比如广告区域加载失败，只有框框没有图片，大概率是你的系统（不是固件！）的负责域名快速解析的HOSTS文件在作妖，解决办法是删除HOSTS文件里的所有规则（# 号注释掉的内容可以不管，其他的都删掉）                               
 * 始终无法连接到软路由网络、始终无网络：[可能解决办法](./winproxy.md)               
 * 科学上网测速注意：[注意事项](./speed.md)                  
 
