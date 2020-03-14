@@ -27,6 +27,6 @@
 * 始终无法连接到软路由网络、始终无网络：[可能解决办法](./winproxy.md)               
 * 科学上网测速注意：[注意事项](./speed.md)           
 * 基于Chromium内核的浏览器建议关闭QUIC：[教程](https://www.echoteen.com/turnoff-quic.html)               
-* 修改win10的tcp配置参数来提升打开youtube的速度[教程](https://bincode.cc/ssr-win10-tcp-youtube-speed/)        
+* 修改win10的tcp配置参数来提升打开youtube的速度：[教程](https://bincode.cc/ssr-win10-tcp-youtube-speed/)        
 
 
